@@ -4,7 +4,6 @@ This is the pytorch implementation for the submitted TGRS paper "A Scene Graph E
 The detailed implementation of the proposed network (as the following figures show) can be find in .\sceneGraphEncodingNet\nets.py
 
 ![The whole net](wholenet.png)
-![CSMG encoder](csmg.png)
 
 # Prepare test dataset
 
@@ -20,9 +19,7 @@ Download dataset University-Release from University1652 (https://github.com/layu
 
 # Run demo
 
-We provide the well-trained model in ./weights
-
-The network training code will be released later. 
+We provide a pre-trained model in ./weights
 
 The R@5 recall results will be saved to file ./recall_results.csv
  
