@@ -22,4 +22,6 @@ Download dataset University-Release from University1652 (https://github.com/layu
 We provide a pre-trained model in ./weights
 
 The R@5 recall results will be saved to file ./recall_results.csv
+
+![Sampled results:](sampled_results.png)
  
