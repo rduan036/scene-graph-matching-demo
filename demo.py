@@ -1,5 +1,5 @@
 #######################################################################################################################
-# This is the demo code for the submitted TGRS paper "A Scene Graph Encoding and Matching Network for UAV Visual Localization"
+# This is the demo code for the submitted paper "A Scene Graph Encoding and Matching Network for UAV Visual Localization"
 # Author: Dr. Ran Duan, LSGI, PolyU, HK
 # Contct: rduan@polyu.edu.hk
 #######################################################################################################################
