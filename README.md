@@ -1,5 +1,5 @@
 # Scene Graph Matching demo
-This is the pytorch implementation for the submitted TNNLS paper "A Scene Graph Encoding and Matching Network for UAV Visual Localization".
+This is the pytorch implementation for the submitted paper "A Scene Graph Encoding and Matching Network for UAV Visual Localization".
 
 The detailed implementation of the proposed network (as the following figures show) can be find in .\sceneGraphEncodingNet\nets.py
 
